@@ -9,7 +9,8 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "expo": "~48.0.6",
+    "@react-native-community/hooks": "^3.0.0",
+    "expo": "^48.0.0",
     "expo-status-bar": "~1.4.4",
     "react": "18.2.0",
     "react-native": "0.71.3"
@@ -17,5 +18,16 @@
   "devDependencies": {
     "@babel/core": "^7.20.0"
   },
-  "private": true
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hazelh441/iaea.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hazelh441/iaea/issues"
+  },
+  "homepage": "https://github.com/hazelh441/iaea#readme",
+  "description": ""
 }
